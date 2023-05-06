@@ -28,6 +28,7 @@ requirements:
     - r-cowplot
     - r-dplyr >=0.7.1
     - r-ggplot2 >=3.4.0
+    - r-broom >=0.7.4
     - r-ggrepel
     - r-ggsci
     - r-ggsignif
@@ -45,6 +46,7 @@ requirements:
     - r-cowplot
     - r-dplyr >=0.7.1
     - r-ggplot2 >=3.4.0
+    - r-broom >=0.7.4
     - r-ggrepel
     - r-ggsci
     - r-ggsignif
