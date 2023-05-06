@@ -27,7 +27,7 @@ requirements:
     - r-base {{ r_version }}
     - r-cowplot
     - r-dplyr >=0.7.1
-    - r-ggplot2
+    - r-ggplot2 >=3.4.0
     - r-ggrepel
     - r-ggsci
     - r-ggsignif
@@ -44,7 +44,7 @@ requirements:
     - r-base {{ r_version }}
     - r-cowplot
     - r-dplyr >=0.7.1
-    - r-ggplot2
+    - r-ggplot2 >=3.4.0
     - r-ggrepel
     - r-ggsci
     - r-ggsignif
